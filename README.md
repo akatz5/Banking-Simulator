@@ -1,8 +1,5 @@
 # Banking-Simulator
-Javengers Project 6
+Javengers Project 6 <br />
+COP 2805C-48327 Java Advanced<br />
 
-# Members
-Yasmin Washington \n
-Kthan Graham \n
-Waylan Corey \n
-Annie Katz \n
+Members: Yasmin Washington, Kthan Graham, Waylan Corey, Annie Katz
