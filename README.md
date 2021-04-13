@@ -1,2 +1,2 @@
-# Javengers-Banking-Simulator
-Javnegers Project 6
+#Banking-Simulator
+Javengers Project 6
